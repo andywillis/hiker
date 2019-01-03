@@ -1,0 +1,12 @@
+.entry {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+}
+
+.mapContainer {
+  margin: 1em;
+  width: 80%;
+  height: 400px;
+}
